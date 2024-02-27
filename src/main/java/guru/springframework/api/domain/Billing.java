@@ -8,6 +8,7 @@ import javax.annotation.Generated;
 @Generated("jsonschema2pojo")
 public class Billing {
 
+
     private Card card;
     private Map<String, Object> additionalProperties = new LinkedHashMap<String, Object>();
 
