@@ -15,6 +15,7 @@ public class Billing {
         return card;
     }
 
+
     public void setCard(Card card) {
         this.card = card;
     }
